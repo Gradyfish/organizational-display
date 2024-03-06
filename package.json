@@ -1,0 +1,25 @@
+{
+  "name": "organizational-display",
+  "version": "1.0.1",
+  "description": "Organizational structure tree display",
+  "main": "organizational-display.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "organizational display",
+    "organizational tree"
+  ],
+  "author": "GradyFish",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gradyfish/organizational-display.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gradyfish/organizational-display/issues"
+  },
+  "homepage": "https://github.com/Gradyfish/organizational-display#readme",
+  "dependencies": {
+  }
+}
